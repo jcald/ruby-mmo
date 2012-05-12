@@ -10,6 +10,6 @@ module RandomPlayer
   end
 
   def to_s
-    "Crazy Carl"
+    "Don Cachito"
   end
 end
